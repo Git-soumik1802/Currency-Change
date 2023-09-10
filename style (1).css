@@ -1,0 +1,44 @@
+
+.container {
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+color:#ffffff
+}
+
+#result {
+    font-weight: bold;
+}
+
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+
+#convert {
+    background-color: #000000;
+    color: white;
+}
+
+#convert:hover {
+    background-color: #3b3d3f;
+}
+
+
+.form-control {
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+}
+
+
+#amount {
+    padding: 8px;
+}
+
+
+.col-md-6 h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
